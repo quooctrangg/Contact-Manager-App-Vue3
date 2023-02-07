@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "user 1",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "email": "trang@gmail.com",
+      "mobile": "0777777777",
+      "company": "Student",
+      "groupId": "2",
+      "id": "D6BNdWnHI"
+    },
+    {
+      "name": "user2",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219988.png",
+      "email": "liem@gmail.com",
+      "mobile": "0888888888",
+      "company": "Student",
+      "groupId": "2",
+      "id": "D6BNdWnBT"
+    },
+    {
+      "name": "user 3",
+      "photo": "https://cdn-icons-png.flaticon.com/512/236/236831.png",
+      "email": "hau@gmail.com",
+      "mobile": "0666666666",
+      "company": "Student",
+      "groupId": "2",
+      "id": "D6BNdLnHI"
+    },
+    {
+      "name": "user 4",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "email": "tan@gmail.com",
+      "mobile": "0555555555",
+      "company": "Student",
+      "groupId": "2",
+      "id": "D4BNdWnHI"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "service"
+    }
+  ]
+}
